@@ -7,8 +7,13 @@
 }
 .navbar{
     background-color: rgba(220, 9, 9, 0.89);
+    margin-bottom: 200px;
 }
-
+.titulo{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
 .subtitulo{
     color: red;
 }
@@ -21,11 +26,28 @@
 }
 .subtitulos-principal{
     text-align: center;
-    color: red;
     padding: 10px;
-    
+}
+.carousel{
+    margin-top: 15px;
 }
 
+.logo{
+    width: 50px;
+}
+.nav-item{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-link{
+    font-size: 100px;
+}
+.rojo{
+ color: red;
+}
+.offcanvas{
+    background-color: red;
+}
 .parrafos-subtitulo{
     color: black;
     padding: 10px;
